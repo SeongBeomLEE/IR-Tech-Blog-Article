@@ -8,9 +8,10 @@
 - 
 
 ## NAVER
+- [2021, 생활의달인에 나온 꽈배기 맛집 알고싶으세요? : 질의 의미를 파악해 찾아주는 Deep Local Search](https://deview.kr/2021/sessions/463)
+- [2021, 검색 결과도 더 똑똑해 보일 수 있을까? - 지식스니펫](https://deview.kr/2021/sessions/481)
 - [2021, 300 억 벡터를 서빙하라! 네이버 검색은 ColBERT 벡터 유사도 검색 도전 중](https://deview.kr/2021/sessions/486)
 - [2021, SPLADE – a sparse BERT-based model for Neural Information Retrieval](https://deview.kr/2021/sessions/516)
-- [2021, 생활의달인에 나온 꽈배기 맛집 알고싶으세요? : 질의 의미를 파악해 찾아주는 Deep Local Search](https://deview.kr/2021/sessions/463)
 - [2021, 사용자 의도와 취향을 이해하는 네이버 통합검색](https://deview.kr/2021/sessions/479)
 - [2021, HyperCLOVA – Korean GPT3: 하이퍼스케일, 그리고 그 후](https://deview.kr/2021/sessions/440)
 - [2021, Multilingual HyperCLOVA](https://deview.kr/2021/sessions/455)
