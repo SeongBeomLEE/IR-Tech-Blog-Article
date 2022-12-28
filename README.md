@@ -17,3 +17,5 @@
 - [2021, Multilingual HyperCLOVA](https://deview.kr/2021/sessions/455)
 - [2021, HyperCLOVA의 한국어 모델](https://tv.naver.com/v/20349558)
 - [2021, HyperCLOVA의 활용 (1) 검색 어플리케이션](https://tv.naver.com/v/20349580/list/710578)
+- [2021, Search Applications with Big Generative LM](https://tv.naver.com/v/20313013/list/709884)
+
