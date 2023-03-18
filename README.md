@@ -8,6 +8,8 @@
 - 
 
 ## NAVER
+- [2023, Noir: 메일검색 서버를 반의 반으로 줄여준 신규 검색엔진 제작기](https://deview.kr/2023/sessions/566)
+- [2023, Transformer 기반의 Global pLACE(GLACE) Matching 개발기](https://deview.kr/2023/sessions/552)
 - [2021, 생활의달인에 나온 꽈배기 맛집 알고싶으세요? : 질의 의미를 파악해 찾아주는 Deep Local Search](https://deview.kr/2021/sessions/463)
 - [2021, 검색 결과도 더 똑똑해 보일 수 있을까? - 지식스니펫](https://deview.kr/2021/sessions/481)
 - [2021, 300 억 벡터를 서빙하라! 네이버 검색은 ColBERT 벡터 유사도 검색 도전 중](https://deview.kr/2021/sessions/486)
