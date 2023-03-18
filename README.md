@@ -19,3 +19,7 @@
 - [2021, HyperCLOVA의 활용 (1) 검색 어플리케이션](https://tv.naver.com/v/20349580/list/710578)
 - [2021, Search Applications with Big Generative LM](https://tv.naver.com/v/20313013/list/709884)
 
+## 그 외 자료
+- [2022, Deep Learning in Information Retrieval. Part III: Ranking](https://itnext.io/deep-learning-in-information-retrieval-part-iii-ranking-da511f2dc325)
+- [2022, Deep Learning in Information Retrieval. Part II: Dense Retrieval](https://medium.com/@aikho/deep-learning-in-information-retrieval-part-ii-dense-retrieval-1f9fecb47de9)
+- [2022, Deep Learning in Information Retrieval. Part I: Introduction and Sparse Retrieval](https://itnext.io/deep-learning-in-information-retrieval-part-i-introduction-and-sparse-retrieval-12de0423a0b9)
