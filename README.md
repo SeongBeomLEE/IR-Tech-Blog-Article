@@ -25,3 +25,13 @@
 - [2022, Deep Learning in Information Retrieval. Part III: Ranking](https://itnext.io/deep-learning-in-information-retrieval-part-iii-ranking-da511f2dc325)
 - [2022, Deep Learning in Information Retrieval. Part II: Dense Retrieval](https://medium.com/@aikho/deep-learning-in-information-retrieval-part-ii-dense-retrieval-1f9fecb47de9)
 - [2022, Deep Learning in Information Retrieval. Part I: Introduction and Sparse Retrieval](https://itnext.io/deep-learning-in-information-retrieval-part-i-introduction-and-sparse-retrieval-12de0423a0b9)
+
+## 논문
+### Sparse Representation
+- [SPLADE](https://github.com/naver/splade)
+- [TILDE](https://github.com/ielab/TILDE)
+- 
+
+### Dense Representation
+- [DPR](https://github.com/facebookresearch/DPR)
+- 
